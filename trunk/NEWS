@@ -1,0 +1,8 @@
+Version 1.0.1 - 1 November 2006
+ - Add manpages
+ - Rename fversion to copyfs-fversion and fmount to copyfs-mount
+ - Add COPYING file and GPL headers in source code
+
+Version 1.0 - 10 December 2004
+ - first version
+
